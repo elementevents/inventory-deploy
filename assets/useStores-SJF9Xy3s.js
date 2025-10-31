@@ -1,0 +1,1 @@
+import{u as e}from"./skeleton-BT0I12pU.js";import"./index-nGUCknkE.js";import{q as s}from"./constants-CRsvxbNR.js";import{l as t,a as u}from"./stores-BGPt28mM.js";function y(){return e({queryKey:s.stores.all,queryFn:t})}function l(r){return e({queryKey:s.stores.list(r),queryFn:()=>u(r)})}export{y as a,l as u};

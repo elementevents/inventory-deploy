@@ -1,1 +1,0 @@
-import{s}from"./index-DBk3o_Wl.js";async function p(n,t){const{data:r,error:o}=await s.functions.invoke("export-csv",{body:{resource:n,filters:t}});if(o)throw o;const e=r==null?void 0:r.url;if(!e)throw new Error("No URL returned from export");window.open(e,"_blank")}export{p as e};
