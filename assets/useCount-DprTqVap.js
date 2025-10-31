@@ -1,0 +1,1 @@
+import{u as e}from"./skeleton-D6hhHwvs.js";import"./index-BDL9VRzY.js";import{q as u}from"./constants-CRsvxbNR.js";import{r as o}from"./counts-ceGbw4Xn.js";function n(r){return e({queryKey:u.counts.detail(r),queryFn:()=>o(r)})}export{n as u};

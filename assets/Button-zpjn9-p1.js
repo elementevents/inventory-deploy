@@ -1,1 +1,0 @@
-import{j as s,B as m,L as i}from"./index-CcPo3f9H.js";function c({className:a,disabled:e,isLoading:t=!1,label:r,loadingLabel:n="Loading...",onClick:o,type:u="button",variant:l="default"}){return s.jsxs(m,{className:a,disabled:t||e,onClick:o,type:u,variant:l,children:[t&&s.jsx(i,{className:"mr-2 h-4 w-4 animate-spin"}),t?n:r]})}export{c as B};

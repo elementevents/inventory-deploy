@@ -1,0 +1,1 @@
+import{u as s}from"./skeleton-D6hhHwvs.js";import"./index-BDL9VRzY.js";import{q as e}from"./constants-CRsvxbNR.js";import{l as u,a as i}from"./bins-CZckBzge.js";function y(){return s({queryKey:e.bins.all,queryFn:u})}function l(r){return s({queryKey:e.bins.list(r),queryFn:()=>i(r)})}export{y as a,l as u};
