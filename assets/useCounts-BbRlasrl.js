@@ -1,1 +1,0 @@
-import{u as r}from"./skeleton-B4IKsskW.js";import"./index-DPT7YIch.js";import{q as s}from"./constants-CTS4Tt_R.js";import{l as t,a as e}from"./counts-BRBGrJXr.js";function y(){return r({queryKey:s.counts.all,queryFn:t})}function l(u){return r({queryKey:s.counts.list(u),queryFn:()=>e(u)})}export{y as a,l as u};
